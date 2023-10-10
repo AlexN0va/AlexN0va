@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @AlexN0va
 - 
 - 👀 
--     My interest and passion lies in learning about the world around us by learning but also being able to take on different perspectives as well as my very own perspective. 
--     As a human I am naturally curious and want to help the world. I believe I can do this by learning and more importantly applying what I learn. Science.... 
--     I am specifically interested in the sciences of computer science. 
+- My interest and passion lies in learning about the world around us by learning but also being able to take on different perspectives as well as my very own perspective. As a human I am naturally curious and want to help the world. I believe I can do this by learning and more importantly applying what I learn. Science.... I am specifically interested in the sciences of computer science. 
 
 - 🌱 I’m currently learning Python, Java, C++,  
 - 
