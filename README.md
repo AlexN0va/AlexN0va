@@ -2,7 +2,7 @@
 - 
 - 🌱 I’m currently learning Python, Java, C++,  
 - 
--  I’m looking to collaborate on Arduino projects, Python projects, C++ projects, game design
+-  Arduino projects, Python projects, C++ projects, game design
 - 
 - 📫 How to reach me ...
 - linkdin.com/in/alex-nava-86137234
