@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @AlexN0va
 - 
-- 🌱 I’m currently learning Python, Java, C++,  
+- 🌱 I’m currently getting my Full-Stack Development certificate and getting a B.S in Electrical Engineering and Computer Science with a minor in Data Science  
 - 
--  Arduino projects, Python projects, C++ projects, game design
+-  Arduino projects, Python projects, C++ projects, game design, Web Development
 - 
 - 📫 How to reach me ...
-- linkdin.com/in/alex-nava-86137234
+- www.linkedin.com/in/alexnava123
 - 
 
 <!---
